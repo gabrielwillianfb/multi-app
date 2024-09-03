@@ -1,8 +1,53 @@
-# React + Vite
+# Multi-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um app feito com react que conta com autenticação de usuario armanezando em localstorage, rotas protegidas, tradutor, pesquisa de filmes, gerador de qr-code, busca por ip e um toDoList.
 
-Currently, two official plugins are available:
+Versão 2.0 | Refatorado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projeto desenvolvido para fins de estudo.
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/gabrielwillianfb/multi-app.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd multi-app
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Abra o Visual Studio Code
+
+```bash
+  code .
+```
+
+Abra um novo terminal
+
+```bash
+  ctrl + '
+```
+
+Execute o programa com o node
+
+```bash
+npm run dev
+```
+
+Abra uma aba no navegador e cole o caminho
+
+```bash
+http://localhost:5173/
+```
+
+ou clique no link que apareceu no terminal
