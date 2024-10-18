@@ -1,6 +1,10 @@
 # Multi-App
 
-Um app feito com react que conta com autenticação de usuario armanezando em localstorage, rotas protegidas, tradutor, pesquisa de filmes, gerador de qr-code, busca por ip e um toDoList.
+Refatoração de código e melhorias: Reestruturei um projeto React existente com problemas de organização, tornando-o mais eficiente e legível.
+
+Funcionalidades integradas: Implementação de autenticação de usuários (armazenada em localStorage), rotas protegidas e um tradutor.
+
+Recursos adicionais: Inclui pesquisa de filmes, gerador de QR code, busca por IP e uma to-do list interativa.
 
 Versão 2.0 | Refatorado.
 
