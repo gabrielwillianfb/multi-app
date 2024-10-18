@@ -4,8 +4,8 @@ import Button from "../button/Button";
 import { useState } from "react";
 import Title from "../title/Title";
 import Container from "../container/Container";
-import PersonIcon from "@mui/icons-material/person";
-import { createUser } from "../../database/database";
+import PersonIcon from "@mui/icons-material/Person";
+import { createUser } from "../../database/Database";
 import { useNavigate } from "react-router-dom";
 
 const Form = styled.form`

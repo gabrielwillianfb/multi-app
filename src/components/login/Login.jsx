@@ -4,7 +4,7 @@ import Button from "../button/Button";
 import { useState, useContext } from "react";
 import Title from "../title/Title";
 import Container from "../container/Container";
-import PersonIcon from "@mui/icons-material/person";
+import PersonIcon from "@mui/icons-material/Person";
 import { AuthContext } from "../contexts/AuthContext";
 import { Link } from "react-router-dom";
 import { loginUser } from "../../database/Database";
